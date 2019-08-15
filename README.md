@@ -1,2 +1,2 @@
 # LEDA-UFCG
-Rorteiros laboratório de estrutura de dados 
+Rorteiros do laboratório de estrutura de dados 

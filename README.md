@@ -1,2 +1,6 @@
 # LEDA-UFCG
-Roteiros do laboratório de estrutura de dados - UFCG 2019.1 
+Roteiros da Disciplina de Laboratório de Estrutura de Dados - UFCG 2019.1
+
+## :rocket: Tecnologias
+
+- [Java](https://www.java.com/)
